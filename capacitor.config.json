@@ -1,0 +1,9 @@
+{
+  "appId": "com.princehacker.livewavetv",
+  "appName": "LiveWaveTv",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}
